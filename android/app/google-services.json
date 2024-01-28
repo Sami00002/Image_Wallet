@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58836799394",
+    "project_id": "ueodatabase",
+    "storage_bucket": "ueodatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58836799394:android:8d1598d2ecbf26eddc6cfb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsAA0ikjvZEmZfZRAmKdpwXRzJgXgbaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
